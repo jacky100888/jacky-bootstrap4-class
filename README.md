@@ -1,8 +1,18 @@
-<h2>yarn<h2>
-yarn init -y  
-yarn add browser-sync  
+### Yarn
 
-<h2>git<h2>
+First:
+```sh
+yarn init -y
+```
+
+Second:
+```sh
+yarn add browser-sync
+```
+### Git
+
+```sh
 git init  
 git add .  
 git commit -m 'init'
+```
